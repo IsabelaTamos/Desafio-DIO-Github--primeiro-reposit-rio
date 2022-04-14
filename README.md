@@ -1,5 +1,5 @@
-# Desafio DIO Github primeiro-repositrio
-Desafio de projeto sobre Git/Github
+# Desafio DIO Github 
+Repositório criado para o desafio de projeto.
  ## Links Úteis
  
  Meu linkedin(https://github.com/python/cpython.git)
